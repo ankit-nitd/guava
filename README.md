@@ -1,7 +1,7 @@
 # Guava: Google Core Libraries for Java
 
 [![Latest release](https://img.shields.io/github/release/google/guava.svg)](https://github.com/google/guava/releases/latest)
-[![Build Status](build.PNG)](https://codedev.ms/Guava/Guava/_build/latest?definitionId=1&branchName=master)
+[![Build Status](build.png)](https://codedev.ms/Guava/Guava/_build/latest?definitionId=1&branchName=master)
 [![CodeCoverage Status Status](CCBadge.png)](https://codedev.ms/Guava/Guava/_build/results?buildId=35&view=codecoverage-tab)
 
 Guava is a set of core libraries that includes new collection types (such as

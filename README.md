@@ -2,7 +2,7 @@
 
 [![Latest release](https://img.shields.io/github/release/google/guava.svg)](https://github.com/google/guava/releases/latest)
 [![Build Status](https://codedev.ms/Guava/Guava/_build/latest?definitionId=1&branchName=master)](https://codedev.ms/Guava/Guava/_build/latest?definitionId=1&branchName=master)
-[![CodeCoverage Status Status](https://vstmr.codedev.ms/guava/guava/_apis/testresults/codecoverage/status/Gauva-CI?branchName=master&api-version=5.0-preview.1)](https://vstmr.codedev.ms/guava/guava/_apis/testresults/codecoverage/status/Gauva-CI?branchName=master&api-version=5.0-preview.1)
+[![CodeCoverage Status Status](CCBadge.png)](https://vstmr.codedev.ms/guava/guava/_apis/testresults/codecoverage/status/Gauva-CI?branchName=master&api-version=5.0-preview.1)
 
 Guava is a set of core libraries that includes new collection types (such as
 multimap and multiset), immutable collections, a graph library, functional
